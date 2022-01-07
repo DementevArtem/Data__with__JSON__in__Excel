@@ -2,9 +2,9 @@
 This project helps to simplify filling the Excel spreadsheet with data from a text file.
 
 # 📂 THE PRINCIPLE OF THE PROGRAM
-> When buying a Facebook account, the buyer is given a text string with data. The information in this string is broken down by this symbol ":". 
-> After filling the "DataFarm.txt" file with accounts, you should run the program. During program operation, BASE64 cookies are converted to JSON format.  
-> As a result, we get:
+1 When buying a Facebook account, the buyer is given a text string with data. The information in this string is broken down by this symbol ":". 
+2 After filling the "DataFarm.txt" file with accounts, you should run the program. During program operation, BASE64 cookies are converted to JSON format.  
+3 As a result, we get:
 
 # 📎 Example string
 
