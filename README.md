@@ -4,7 +4,7 @@ This project helps to simplify filling the Excel spreadsheet with data from a te
 # 📂 THE PRINCIPLE OF THE PROGRAM
 When buying a Facebook account, the buyer is given a text string with data. The information in this string is broken down by this symbol ":".
 
-## 📎 Example string
+### 📎 Example string
 
   + mqRuthBrownxqiy@gmail.com: - email;
   + uEZ1r9IP7: - email password;
