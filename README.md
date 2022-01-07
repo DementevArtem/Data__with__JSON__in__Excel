@@ -3,7 +3,7 @@ This project helps to simplify filling the Excel spreadsheet with data from a te
 
 # 📂 THE PRINCIPLE OF THE PROGRAM
 
-  *mqRuthBrownxqiy@gmail.com: - email;
+  +mqRuthBrownxqiy@gmail.com: - email;
   *uEZ1r9IP7: - email password;
   *MfwhnKXP: - facebook password
   *Юлия Радаева: - facebook account name;
