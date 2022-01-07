@@ -1,6 +1,6 @@
 # 🗄 ABOUT THIS PROJECT
 This project helps to simplify filling the Excel spreadsheet with data from a text file.
-#
+
 # 📂 THE PRINCIPLE OF THE PROGRAM
 
 -mqRuthBrownxqiy@gmail.com:
